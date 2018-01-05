@@ -2,7 +2,7 @@
 
 There are 5 assignemnts for this course.
 
-The code is written by python.
+The code is written by python and matlab.
 
 The website is: http://www.teach.cs.toronto.edu/~csc420h/fall/.
 
